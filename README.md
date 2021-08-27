@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashburry-chat-irc
-- 👀 I’m interested in ... mIRC, Adiirc, Python 3, Trio, HTML, 5ioE gang
-- 🌱 I’m currently learning ... development with Python 3
+- 👀 I’m interested in ... mIRC, Adiirc, Python 3, Trio, HTML, Git, 5ioE gang
+- 🌱 I’m currently learning ... development with Python 3 and Git
 - 💞️ I’m looking to collaborate on ... trio_ircproxy
 - 📫 How to reach me ... channel #5ioE on irc.Undernet.org and email ashburry.py@gmail.com
 
